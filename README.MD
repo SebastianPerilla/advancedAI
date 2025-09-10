@@ -1,3 +1,7 @@
-# Adriana What is up my girl
-- we do not want this girl to invite my girl to her girly thing
-- Check this out
+# Advanced AI - IE University
+## Professor: Beatriz Blanc
+
+- Heavy Focus on PyTorch and its applications on Neural Networks
+
+### Session 1:
+- Basic PyTorch Syntax, and intro to using the GPU for faster calculations with CUDA
