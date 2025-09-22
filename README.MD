@@ -5,3 +5,4 @@
 
 ### Session 1:
 - Basic PyTorch Syntax, and intro to using the GPU for faster calculations with CUDA
+
