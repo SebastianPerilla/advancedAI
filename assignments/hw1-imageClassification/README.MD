@@ -26,4 +26,4 @@ Here is one dataset you could use: https://www.kaggle.com/datasets/asdasdasasdas
 
 ## Submission:
 
-- My own dataset I want to focus on detecting the disease of flowers and ideally bananas.
+- My own dataset I want to focus on detecting the color of cars.
